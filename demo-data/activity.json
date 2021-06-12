@@ -19,7 +19,7 @@
     }
   },
   "metaData": {
-    "icon": "https://sample-activity.herokuapp.com/envelope.png",
+    "icon": "https://sample-activity.herokuapp.com/icon.png",
     "category": "message",
     "iconSmall": null,
     "original_icon": "icon.png",
