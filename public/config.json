@@ -30,10 +30,10 @@
     }
   },
   "metaData": {
-    "icon": "https://dry-lake-43299.herokuapp.com/icon.png",
+    "icon": "https://dry-lake-43299.herokuapp.com/mail.png",
     "category": "message",
     "iconSmall": null,
-    "original_icon": "icon.png",
+    "original_icon": "mail.png",
     "isConfigured": true
   },
   "editable": true,
