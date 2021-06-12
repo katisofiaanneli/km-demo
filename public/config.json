@@ -33,7 +33,7 @@
     "icon": "https://dry-lake-43299.herokuapp.com/envelope.png",
     "category": "message",
     "iconSmall": null,
-    "original_icon": "icon.png",
+    "original_icon": "envelope.png",
     "isConfigured": true
   },
   "editable": true,
