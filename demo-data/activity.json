@@ -19,10 +19,10 @@
     }
   },
   "metaData": {
-    "icon": "https://sample-activity.herokuapp.com/icon.png",
+    "icon": "https://sample-activity.herokuapp.com/mail.png",
     "category": "message",
     "iconSmall": null,
-    "original_icon": "icon.png",
+    "original_icon": "mail.png",
     "isConfigured": true
   },
   "editable": true,
