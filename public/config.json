@@ -30,10 +30,10 @@
     }
   },
   "metaData": {
-    "icon": "https://raw.githubusercontent.com/katisofiaanneli/km-demo/master/public/mail.png",
+    "icon": "https://raw.githubusercontent.com/katisofiaanneli/km-demo/master/public/envelope.png",
     "category": "message",
     "iconSmall": null,
-    "original_icon": "mail.png",
+    "original_icon": "envelope.png",
     "isConfigured": true
   },
   "editable": true,
